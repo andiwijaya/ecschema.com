@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ecschema.com/sitemap.xml
