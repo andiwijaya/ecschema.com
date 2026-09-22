@@ -18,3 +18,5 @@ Serve the repository root with any static file server. The deployable output is 
 ## Repository
 
 Production source: https://github.com/andiwijaya/ecschema.com
+
+Cloudflare Pages deploys the `main` branch automatically.
